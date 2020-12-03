@@ -23,17 +23,18 @@
     border: 1px solid black;
     width: 70%;
     padding: 3rem 1rem;
-    float: left;
+    float: right;
 }
 
 #section-2 aside {
     background-color: #48523a;
     color: hsl(0, 0%, 99%);
     width: 30%;
-    float: right;
+    float: left;
 }
 
 #section-2 li {
     list-style: none;
-    padding: 1rem 3rem;
+    padding: 0.2rem 9rem;
+    float: left;
 }
